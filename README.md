@@ -1,5 +1,10 @@
 # GameOfTicTacToe
 
+![image](https://user-images.githubusercontent.com/73888905/114511411-877eb480-9c40-11eb-90e0-383a8f91f12d.png)
+
+
+
+
 There are two types board:
 
 small board
