@@ -1,26 +1,51 @@
-# GameOfTicTacToe
+## Game Of Tic-Tac-Toe
 
 
+There are two types of boards:
 
+- **Small**: 3x3
 
+```
+      0     1     2    
+   +  -  +  -  +  -  + 
+0  |     |     |     | 
+   +  -  +  -  +  -  + 
+1  |     |     |     | 
+   +  -  +  -  +  -  + 
+2  |     |     |     | 
+   +  -  +  -  +  -  + 
+```
 
+- **Big**: 3x3
 
-There are two types board:
+```
+      0     1     2     3     4     5     6     7     8    
+   +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  + 
+0  |     |     |     |     |     |     |     |     |     | 
+   +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  + 
+1  |     |     |     |     |     |     |     |     |     | 
+   +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  + 
+2  |     |     |     |     |     |     |     |     |     | 
+   +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  + 
+3  |     |     |     |     |     |     |     |     |     | 
+   +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  + 
+4  |     |     |     |     |     |     |     |     |     | 
+   +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  + 
+5  |     |     |     |     |     |     |     |     |     | 
+   +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  + 
+6  |     |     |     |     |     |     |     |     |     | 
+   +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  + 
+7  |     |     |     |     |     |     |     |     |     | 
+   +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  + 
+8  |     |     |     |     |     |     |     |     |     | 
+   +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  +  -  + 
+```
 
-small board
-0 - 3x3
-
-![image](https://user-images.githubusercontent.com/73888905/114511718-f1975980-9c40-11eb-88c5-239f65824c34.png)
-
-
-big board
-1 - 9x9
-
-![image](https://user-images.githubusercontent.com/73888905/114511607-cad92300-9c40-11eb-992b-00312a49ed62.png)
 
 
 ### Example
 
+```
 run:
 first player name: 
 Rokas
@@ -454,7 +479,7 @@ Players:
 Select the board size: > 
 0 - 3x3 
 1 - 9x9
-
+```
 
 
 
