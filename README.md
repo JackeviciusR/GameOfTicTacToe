@@ -1,4 +1,12 @@
 ## Game Of Tic-Tac-Toe
+<img src="https://img.shields.io/badge/Game-TicTacToe-blue" alt="Game"></a>
+![Players](https://img.shields.io/badge/Players-2-green)
+![Board3x3](https://img.shields.io/badge/Board-3x3-lightgrey)
+![Board9x9](https://img.shields.io/badge/Board-9x9-lightgrey)
+![Age](https://img.shields.io/badge/Age-3--99-red)
+![SymfonyInsight Stars](https://img.shields.io/symfony/i/stars/825be328-29f8-44f7-a750-f82818ae9111?color=black&label=Popular&logoColor=red)
+
+### Game created using OOP and Exceptions.
 
 
 There are two types of boards:
@@ -16,7 +24,7 @@ There are two types of boards:
    +  -  +  -  +  -  + 
 ```
 
-- **Big**: 3x3
+- **Big**: 9x9
 
 ```
       0     1     2     3     4     5     6     7     8    
@@ -44,6 +52,7 @@ There are two types of boards:
 
 
 ### Example
+
 
 ```
 run:
